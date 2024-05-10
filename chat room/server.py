@@ -41,7 +41,7 @@ def handle(client):
             broadcast('{} left!'.format(nickname).encode('ascii'),client)
             nicknames.remove(nickname)
             break
-        
+# code made by youssif seliem
 # Receiving / Listening Function
 def receive():
     while True:

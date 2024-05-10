@@ -119,6 +119,7 @@ def clicked9():
             btn9["text"]="O"
         check();
 flag=1;
+# code made by youssif seliem
 def check():      #check if a win case exists
     global flag;
     b1 = btn1["text"];    #get text in the button

@@ -8,7 +8,7 @@ port = 50000
 
 s.connect((ip, port))
 print("[*] Connected to server")
-
+# code made by youssif seliem
 while True:
     x = input('Client : ')
     if x == 'q':

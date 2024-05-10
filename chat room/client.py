@@ -29,7 +29,7 @@ def receive():
             print("An error occured!")
             client.close()
             break
-        
+# code made by youssif seliem
 # Sending Messages To Server
 def write():
     while True:
